@@ -134,22 +134,18 @@ img {
 }
 .top-items {
   display: flex;
-  padding: 0, 22.5px;
 }
 .container {
   width: 1158px;
   margin: 0 auto;
+  padding: 0 15px;
 }
-
 .top-bar {
   border-bottom: 1px solid #e7e9fc;
 }
 .top-nav {
   display: flex;
   align-items: center;
-}
-.top-items {
-  display: flex;
 }
 .logo-link {
   margin-right: 76px;
