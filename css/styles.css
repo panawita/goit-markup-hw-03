@@ -1,0 +1,127 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+  line-height: 1.5;
+}
+ul {
+  list-style-type: none;
+}
+
+.logo-link {
+  color: #4d5ae5;
+  font-family: Raleway, sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.logo-part-header {
+  color: #2e2f42;
+}
+.logo-part-footer {
+  color: #f4f4fd;
+}
+.top-nav-link {
+  color: #2e2f42;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+}
+.top-nav-link:hover,
+.top-nav-link:focus,
+.top-nav-link:active {
+  color: #404bbf;
+}
+.contact {
+  color: #434455;
+}
+
+.contact-details {
+  color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+}
+.contact-details:hover,
+.contact-details:focus,
+.contact-details:active {
+  color: #404bbf;
+}
+.logo-link {
+  text-decoration: none;
+}
+.main-heading {
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+h2 {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 36px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  line-height: 1.2;
+}
+h3 {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.02em;
+  line-height: 1.2;
+}
+.our-team-h-primary {
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+.our-team-card {
+  background-color: #ffffff;
+}
+.btn {
+  background-color: #4d5ae5;
+  border: none;
+  cursor: pointer;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+}
+.btn:hover,
+.btn:focus,
+.btn:active {
+  background-color: #404bbf;
+}
+.first-section {
+  background-color: #2e2f42;
+}
+p {
+  letter-spacing: 0.02em;
+}
+
+.our-team {
+  background-color: #f4f4fd;
+  text-align: center;
+}
+.portfolio-h-primary {
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+footer {
+  background-color: #2e2f42;
+}
+footer a {
+  text-decoration: none;
+}
+.p-footer {
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
+}
