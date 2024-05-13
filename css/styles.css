@@ -1,3 +1,7 @@
+* {
+  margin: 0;
+  padding: 0;
+}
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
@@ -124,4 +128,29 @@ footer a {
 .p-footer {
   color: #f4f4fd;
   letter-spacing: 0.02em;
+}
+.logo-link {
+}
+.top-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 1440px;
+  height: 72px;
+  flex-shrink: 0;
+}
+.top-nav {
+  display: flex;
+  justify-content: space-evenly;
+}
+.nav-list {
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+}
+.contact-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
 }
