@@ -215,16 +215,27 @@ img {
   gap: 24px;
 }
 .our-team-card {
-  width: calc((100% - 72px) / 4)
+  width: calc((100% - 72px) / 4);
   border-radius: 0px 0px 4px 4px;
 }
-.business-card 
-{padding-top: 32px; padding-bottom: 32px;}
+.business-card {
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
 
-.our-team-h-secondary {margin-bottom: 8px;
-text-align: center;}
-.our-team-p {text-align: center;}
+.our-team-h-secondary {
+  margin-bottom: 8px;
+  text-align: center;
+}
+.our-team-p {
+  text-align: center;
+}
 
 .portfolio {
   padding-top: 120px;
-  padding-bottom: 120px;}
+  padding-bottom: 120px;
+}
+
+.portfolio-h-primary {
+  margin-bottom: 72px;
+}
