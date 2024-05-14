@@ -180,7 +180,10 @@ img {
   justify-content: space-evenly;
 }
 .core-values {
-  padding: 120px 0;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  margin-left: 156px;
+  margin-right: auto;
 }
 .core-values-list {
   display: flex;
@@ -192,13 +195,13 @@ img {
   width: 264px;
   flex-direction: column;
   align-items: flex-start;
+  justify-content: space-evenly;
   gap: 8px;
 }
 .core-values-h-secondary {
   margin-bottom: 8px;
 }
-.second-section {
-  margin-left: 156px;
-  margin-right: 156px;
-  margin-bottom: 120px;
+.our-team {
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
