@@ -182,8 +182,6 @@ img {
 .core-values {
   padding-top: 120px;
   padding-bottom: 120px;
-  margin-left: 156px;
-  margin-right: auto;
 }
 .core-values-list {
   display: flex;
@@ -197,6 +195,9 @@ img {
   align-items: flex-start;
   justify-content: space-evenly;
   gap: 8px;
+}
+.visually-hidden {
+  display: none;
 }
 .core-values-h-secondary {
   margin-bottom: 8px;
