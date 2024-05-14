@@ -152,6 +152,7 @@ img {
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
+  background-color: aqua;
 }
 
 .top-bar {
@@ -206,3 +207,24 @@ img {
   padding-top: 120px;
   padding-bottom: 120px;
 }
+.our-team-h-primary {
+  margin-bottom: 72px;
+}
+.our-team-list {
+  display: flex;
+  gap: 24px;
+}
+.our-team-card {
+  width: calc((100% - 72px) / 4)
+  border-radius: 0px 0px 4px 4px;
+}
+.business-card 
+{padding-top: 32px; padding-bottom: 32px;}
+
+.our-team-h-secondary {margin-bottom: 8px;
+text-align: center;}
+.our-team-p {text-align: center;}
+
+.portfolio {
+  padding-top: 120px;
+  padding-bottom: 120px;}
